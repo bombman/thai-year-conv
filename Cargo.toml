@@ -1,6 +1,6 @@
 [package]
 name = "thai-year-conv"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Nuttapong Maneenate <setvisible@gmail.com>"]
 description = "A library for converting between Christian (AD) and Buddhist (BE) years"
 license = "MIT"

@@ -9,7 +9,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-thai-year-conv = "0.1.0"
+thai-year-conv = "0.1.1"
 ```
 
 ```Rust
