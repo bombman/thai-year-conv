@@ -1,0 +1,12 @@
+[package]
+name = "thai-year-conv"
+version = "0.1.0"
+authors = ["Nuttapong Maneenate <setvisible@gmail.com>"]
+description = "A library for converting between Christian (AD) and Buddhist (BE) years"
+license = "MIT"
+repository = "https://github.com/bomaman/thai-year-conv"
+documentation = "https://docs.rs/thai-year-conv"
+homepage = "https://github.com/bombman/thai-year-conv"
+readme = "README.md"
+
+[dependencies]
